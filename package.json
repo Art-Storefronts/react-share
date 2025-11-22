@@ -1,5 +1,5 @@
 {
-  "name": "react-share",
+  "name": "@artstorefronts/react-share",
   "version": "5.2.2",
   "description": "Social media share buttons and share counts for React.",
   "type": "module",
